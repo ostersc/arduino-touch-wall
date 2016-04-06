@@ -1,0 +1,12 @@
+0	interceptor
+1	boba fett
+2	tie fighter
+3	storm trooper
+4	death star
+5	vader
+6	luke
+7	c3p0 & r2d2
+8	falcon
+9	chewbacca
+10	yoda
+11	han
