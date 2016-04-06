@@ -1,0 +1,71 @@
+- [x] Touch Sensors (12)
+    - Paint (50ml)
+        - http://www.bareconductive.com/shop/electric-paint-50ml/
+        - $25 https://www.sparkfun.com/products/10994
+    - Marker (10ml)
+        - http://www.bareconductive.com/shop/electric-paint-10ml/
+        - $10 https://www.sparkfun.com/products/11521
+- [x] Controller
+    - 90$ All in One
+        - http://www.bareconductive.com/shop/touch-board/
+        - $90 https://www.sparkfun.com/products/13298
+        - $84 http://www.amazon.com/gp/product/B00OU2GURG
+    - ~65$ DIY (doesn’t have midi)
+        - $20 Arduino
+        - $35 MP3 Shield: https://www.sparkfun.com/products/12660
+        - $10 Capacitive Touch Sensor Breakout - MPR121
+- [x] Runs
+    - [x] Tape:
+        - $3 Copper Tape https://www.sparkfun.com/products/10561
+        - $5 Aluminum Tape http://www.amazon.com/TapeCase-Aluminum-Conductive-Adhesive-Converted/dp/B00KNU938M
+        - http://conducty.com/
+    - [x] Wire
+    - Thread:
+        - 13$ (60ft) http://www.amazon.com/CanaKit-Conductive-Thread-Bobbin-Bobbins/dp/B007R9UA4S/
+        - 7$ http://www.adafruit.com/products/641
+- [x] micro SD adapter: http://www.amazon.com/SanDisk-microSD-Memory-Adapter-MICROSD-ADAPTER/dp/B0047WZOOO
+- [x] Speaker
+    - $40 37” speaker http://www.amazon.com/Proscan-PSB3713-OP-37-Inch-Bluetooth-Ultra-Slim/dp/B017BKA5UG/
+    - [x] $35 6” speaker  http://www.amazon.com/DKnight-Magicbox-Bluetooth-Portable-Microphone/dp/B00NXET2MM
+    - TODO:
+- [x] Touch Surfaces
+    - Star Wars Stickers with paint behind them?
+        - changeable
+        - [x] $10 http://www.amazon.com/gp/product/B004UIUG3Y
+        - [ ] $10 http://www.amazon.com/gp/product/B013T8KTRI
+    - Star Wars Stencils for paint
+        - permanent
+- [ ] Mounting
+    - 3d printed, 3m wall mounts
+- Layout:
+    - 6 light side characters (left)
+    - 6 dark side characters (right)
+- [x] Programming:
+    - [x] Simple playback
+        - [x] plays sound as touched
+        - proximity, different distances play different sounds
+    - [x] Trivia timer
+        - play a sound or trivia; have to touch the correct shape in time
+            - if we have a display, count down points and score based on how fast correct answer is picked
+            - without display; just right or wrong with count down timer (audio indication)
+            - or wifi shield to use app or website for display
+    - Balance to the Force
+        - neopixel for light vs dark side balance; playing a light side sound moves +1; playing a dark side sound -1
+
+Examples:
+
+- http://www.instructables.com/id/Draw-It-Yourself/
+- https://www.youtube.com/watch?v=pVvEQUbhar8
+- https://github.com/BareConductive
+- https://www.youtube.com/watch?v=fyDXXeqRX6s
+- https://learn.adafruit.com/conductive-thread?view=all
+
+Other:
+
+- http://makezine.com/2013/12/22/making-connections-with-conductive-tape-a-primer/
+- raw arduino?
+    - https://www.youtube.com/watch?v=BHQPqQ_5ulc
+    - http://playground.arduino.cc/Main/CapacitiveSensor
+    - http://www.bareconductive.com/make/building-a-capacitive-proximity-sensor-using-electric-paint/
+- homemade ink:
+    - http://www.instructables.com/id/Paper-Electronics-Conductive-Paints-Inks-and-Mo/
